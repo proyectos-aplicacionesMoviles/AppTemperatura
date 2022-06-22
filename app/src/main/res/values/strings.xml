@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">temperatura</string>
+    <string name="_100_c">100°c</string>
+</resources>
